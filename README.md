@@ -24,7 +24,7 @@ exercism configure --token=YOUR_API_TOKEN
 
 Further info in [Exercism docs](https://exercism.io/cli).
 
-At this point you can download, develop, and submit your exercises using exercism CLI.
+At this point you can download, develop, and submit your exercises using exercism CLI. Even you can use remote connection tools, like [Visual Studio Code](https://code.visualstudio.com) with the [Docker extensions](https://code.visualstudio.com/docs/containers/overview) to carry out your exercises as if you were working in your host machine file system.
 
 ## Mapping a local folder
 
