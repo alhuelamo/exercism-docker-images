@@ -13,3 +13,9 @@ services:
         build:
             context: .
             dockerfile: cpp.Dockerfile
+
+    rust:
+        image: alhuelamo/exercism:rust
+        build:
+            context: .
+            dockerfile: rust.Dockerfile
