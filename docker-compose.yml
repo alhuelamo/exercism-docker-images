@@ -3,13 +3,13 @@ version: '3.0'
 services:
 
     base:
-        image: alhuelamo/exercism_base
+        image: alhuelamo/exercism:base
         build:
             context: .
             dockerfile: base.Dockerfile
 
     cpp:
-        image: alhuelamo/exercism_cpp
+        image: alhuelamo/exercism:cpp
         build:
             context: .
             dockerfile: cpp.Dockerfile
