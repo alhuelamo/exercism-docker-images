@@ -1,0 +1,15 @@
+version: '3.0'
+
+services:
+
+    base:
+        image: alhuelamo/exercism_base
+        build:
+            context: .
+            dockerfile: base.Dockerfile
+
+    cpp:
+        image: alhuelamo/exercism_cpp
+        build:
+            context: .
+            dockerfile: cpp.Dockerfile
