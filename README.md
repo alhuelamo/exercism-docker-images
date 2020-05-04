@@ -1,6 +1,6 @@
 # Exercism Docker Images
 
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/alhuelamo/exercism)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/alhuelamo/exercism)](https://hub.docker.com/r/alhuelamo/exercism)
 
 A set of Docker images to carry out exercises from [Exercism](https://exercism.io) and keep your machine clean. Each image has preinstalled a minimum set of dependencies to get started with some of the tracks.
 
