@@ -41,3 +41,4 @@ Use the following tags to access images for different tracks:
 - Bash: `base`, `bash`
 - Rust: `rust`
 - C++: `cpp`
+- Scala: `scala`
