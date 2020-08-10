@@ -42,3 +42,4 @@ Use the following tags to access images for different tracks:
 - Rust: `rust`
 - C++: `cpp`
 - Scala: `scala`
+- Go: `go`
