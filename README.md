@@ -43,3 +43,4 @@ Use the following tags to access images for different tracks:
 - C++: `cpp`
 - Scala: `scala`
 - Go: `go`
+- TypeScript: `ts`
