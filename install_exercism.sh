@@ -1,9 +1,9 @@
-#!/usr/bin/env sh
+#!/bin/sh
 current=$(pwd)
 
 echo 'Installing dependencies...'
-apt-get -qq update
-apt-get -qq install -y wget
+apt-get update
+apt-get install -y wget
 
 echo 'Installing exercism CLI...'
 dist='/opt/exercism'
